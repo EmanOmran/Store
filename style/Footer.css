@@ -1,0 +1,44 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.body{
+     background-color: #192734;
+     
+}
+.row{
+    padding: 50px;
+   
+}
+.container2{
+    margin:200px;
+}
+.content-links .fontawsome{
+    color: white;
+    font-size: 40px;
+   margin-right: 20px;
+}
+input{
+    height: 50px;
+    padding: 10;
+}
+input[type='submit']{
+    margin-left: -1px;
+    margin-top: -7px;
+}
+input[type='email']{
+background-color: unset;
+color:rgb(184, 181, 170) ;
+border: 0.5px solid rgb(184, 181, 170);
+
+}
+
+.last{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+  
+}
